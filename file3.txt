@@ -4,3 +4,4 @@ this file is edited
 
 this file is eddited again to check the diff 
 
+this file is editted again to check staged diff
